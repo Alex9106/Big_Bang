@@ -1,9 +1,6 @@
 from random import randint
 
-
-
 random_list = ["Rock", "Paper", "Scissors", "Lizard", "Spock"]
-
 
 computer = random_list[randint(0, 4)]
 
@@ -59,8 +56,7 @@ while player == False:
 
 
 
-
-    else:
+     else:
         print("That's not a valid play. Check your spelling!")
 
     player = False
