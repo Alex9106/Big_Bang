@@ -54,8 +54,6 @@ while player == False:
         print("You lose", computer, "vaporizes", player)
 
 
-
-
      else:
         print("That's not a valid play. Check your spelling!")
 
