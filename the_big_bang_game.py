@@ -52,8 +52,7 @@ while player == False:
     elif computer == 'Spock' and player == 'Rock':
         print("You lose", computer, "vaporizes", player)
 
-
-     else:
+    else:
         print("That's not a valid play. Check your spelling!")
 
     player = False
