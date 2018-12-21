@@ -1,5 +1,6 @@
 # Big_Bang
 This is the extended version of the "Rock, Paper, Scissors" game from the TV Show called "The Big Bang Theory". 
+
 Rules:   
 
  Scissors cuts Paper--
