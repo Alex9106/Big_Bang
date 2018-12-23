@@ -7,7 +7,6 @@ computer = random_list[randint(0, 4)]
 player = False
 
 while player == False:
-
     player = input("Rock, Paper, Scissors, Lizard, Spock?: ")
     if player == computer:
         print("Tie!")
