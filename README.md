@@ -12,6 +12,6 @@ Rules:
  Lizard eats Paper --
  Paper disproves Spock --
  Spock vaporizes Rock --
- Rock crushes Scissors --
+ Rock crushes Scissors 
 
 Enjoy!!!
