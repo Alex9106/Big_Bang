@@ -3,7 +3,6 @@ from random import randint
 random_list = ["Rock", "Paper", "Scissors", "Lizard", "Spock"]
 
 computer = random_list[randint(0, 4)]
-
 player = False
 
 while player == False:
